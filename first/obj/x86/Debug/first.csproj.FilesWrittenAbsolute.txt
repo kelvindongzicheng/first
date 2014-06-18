@@ -1,0 +1,5 @@
+/Users/kelvindong/MonoProject/first/first/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/kelvindong/MonoProject/first/first/bin/Debug/first.exe.mdb
+/Users/kelvindong/MonoProject/first/first/bin/Debug/first.exe
+/Users/kelvindong/MonoProject/first/first/obj/x86/Debug/first.exe
+/Users/kelvindong/MonoProject/first/first/obj/x86/Debug/first.exe.mdb
